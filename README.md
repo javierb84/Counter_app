@@ -1,0 +1,1 @@
+This is a simple "Counter" app, where you just click the INCREMENT button to add to the counter (hours played), then click the SAVE button to save those hours (the counter), which makes the counter reset to 0
